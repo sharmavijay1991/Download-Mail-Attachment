@@ -1,0 +1,9 @@
+OPTIONS:
+        SOURCE_NAME: anywhere.exchserver.com
+        HOST_NAME: anywhere.exchserver.com      
+        HOST_PORT: 995
+        USERNAME: first.last_name@ur_company.com
+        PASSWORD: passwd
+        LOG_FILEPATH: ./Log/
+        DOWNLOAD_DIR: ./Data/
+        SUBJECT: Warning
